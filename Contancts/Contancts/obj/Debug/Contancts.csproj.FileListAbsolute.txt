@@ -1,0 +1,11 @@
+D:\programmin\.net course\Contancts\Contancts\bin\Debug\Contancts.exe.config
+D:\programmin\.net course\Contancts\Contancts\bin\Debug\Contancts.exe
+D:\programmin\.net course\Contancts\Contancts\bin\Debug\Contancts.pdb
+D:\programmin\.net course\Contancts\Contancts\obj\Debug\Contancts.csproj.AssemblyReference.cache
+D:\programmin\.net course\Contancts\Contancts\obj\Debug\Contancts.FormContacts.resources
+D:\programmin\.net course\Contancts\Contancts\obj\Debug\Contancts.Properties.Resources.resources
+D:\programmin\.net course\Contancts\Contancts\obj\Debug\Contancts.csproj.GenerateResource.cache
+D:\programmin\.net course\Contancts\Contancts\obj\Debug\Contancts.csproj.CoreCompileInputs.cache
+D:\programmin\.net course\Contancts\Contancts\obj\Debug\Contancts.exe
+D:\programmin\.net course\Contancts\Contancts\obj\Debug\Contancts.pdb
+D:\programmin\.net course\Contancts\Contancts\obj\Debug\Contancts.FormAddOrEditContact.resources
